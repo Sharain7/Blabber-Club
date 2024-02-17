@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Blabber Club</string>
+    <string name="developed_by">Developed by Sharain Kapoor</string>
+    <string name="step_1">1</string>
+    <string name="step_2">2</string>
+    <string name="step_3">3</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="mobile">Mobile</string>
+    <string name="send_otp">Send otp</string>
+    <string name="enter_otp">Enter Otp sent to your mobile number</string>
+    <string name="otp_field">OTP</string>
+    <string name="next">next</string>
+    <string name="resend_otp">Resend Otp in 30 seconds</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="username">Username</string>
+    <string name="let_me_in">let me in</string>
+    <string name="menu_chats">Chats</string>
+    <string name="menu_profile">Profile</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="search_user">Search User</string>
+    <string name="sample_phone_number">+7777777777</string>
+    <string name="write_message_here">Write message here</string>
+    <string name="hello_how_are_you">Hey mate, how are ya?</string>
+    <string name="am_fine">Not bad, yourself?</string>
+    <string name="sample_message_time">11:00</string>
+    <string name="phone">Phone</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="logout">Logout</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
