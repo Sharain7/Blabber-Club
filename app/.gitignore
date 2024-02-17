@@ -33,3 +33,4 @@ signing.properties
 
 # macOS
 .DS_Store
+com/example/chatapplication/ApiKeyHolder.java
