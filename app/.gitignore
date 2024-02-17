@@ -1,1 +1,35 @@
+# Android specific
+*.iml
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
+/captures
+.externalNativeBuild
+*.log
+
+# Gradle files
+.gradle
+/caches
+
+# Local configuration file (e.g., for Firebase credentials)
+google-services.json
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio
+/.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Files for signing
+signing.properties
+
+# macOS
+.DS_Store
